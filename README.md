@@ -5,7 +5,7 @@ A very simple set of scripts to build a 1.44MB 3.5" Floppy Disk image with just 
 * Download an ISO image to your DOS machine, from either a NAS or the Internet over HTTP
 * Mount that ISO image up as a virtual CDROM, without the need for real hardware
 
-The floppy drive image is built in Linux.  It might work in Windows10+WSL2, I don't know.  I'll try that one day.
+The floppy drive image is built in Linux. It'll also work in Windows 10 2004 with WSL2 running a Linux install that way.
 
 Once created, the image can be mounted in VirtualBox, Loaded onto a Gotek/Flashfloppy style device, or raw-written to a real 3.5" 1.44MB Double Sided HD floppy disk.
 
